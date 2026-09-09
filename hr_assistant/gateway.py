@@ -27,7 +27,7 @@ logger = get_logger(__name__)
 
 # The one Groq integration set up in the Portkey dashboard for this
 # workspace (see module docstring for why there's only one).
-PRIMARY_PROVIDER = "@hrpolicy"
+PRIMARY_PROVIDER = "@hr-policy"
 
 
 
